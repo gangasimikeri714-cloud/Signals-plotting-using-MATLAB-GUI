@@ -1,2 +1,8 @@
-# Signals-plotting-using-MATLAB-GUI
-Signal-Plotting-using-MATLAB GUI have plotted 4 types of signal including sine signal, square signal, triangular  signal and composite signal by using MATLAB GUI
+Signal Plotting using MATLAB GUI
+
+In this project, I have developed and implemented a MATLAB Graphical User Interface (GUI) for plotting different types of signals. The objective was to visually generate and analyze a variety of waveforms commonly used in signal processing. A total of four types of signals have been plotted, which include sine signals, square signals, triangular signals, and composite signals.
+1. Sine Signal: The sine waveform was generated using the built-in sin function in MATLAB. This function creates a smooth periodic oscillation, which is fundamental in many communication and control systems.
+2. Square Signal: The square waveform was produced using MATLAB’s square function. This type of signal alternates between two fixed amplitude levels and is commonly used in digital electronics and switching applications.
+3. Triangular Signal: The triangular waveform was generated with the sawtooth function by adjusting its parameters to produce a symmetric rise and fall pattern. Such waveforms are often found in modulation techniques and waveform generators.
+4. Composite Signal: A composite signal was created by adding two or more basic signals together. This demonstrates the principle of superposition, where multiple waveforms combine to form a more complex signal pattern.
+For implementation, I used MATLAB 2016a. The MATLAB GUI provided an interactive environment, allowing the user to control parameters such as frequency, amplitude, and phase, and immediately visualize the effects on the plotted signals. This approach made the analysis more intuitive and user-friendly, providing a clear understanding of waveform characteristics.
